@@ -1,2 +1,2 @@
-# thenakedladyshow
-it's the naked lady show!
+# The Naked Lady Show
+I made a tiny streaming service for my wife's cartoons.
